@@ -1,5 +1,5 @@
 # AED2Grafo
-*~REFAZER A LÓGICA PARA MATRIZ~*
+*_REFAZER A LÓGICA PARA MATRIZ_*
 
 Implementar um grafo por lista de adjacências e as funções para as seguintes operações:
 
